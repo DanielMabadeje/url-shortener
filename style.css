@@ -1,0 +1,14 @@
+a{
+    color: #777;
+    text-decoration: underline;
+}
+#container{
+    padding: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+/* #copyright{
+
+} */
